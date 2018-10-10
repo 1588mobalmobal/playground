@@ -1,0 +1,7 @@
+diff a/구구단/1.html b/구구단/1.html	(rejected hunks)
+@@ -0,4 +0,5 @@
+ <!DOCTYPE html>
++<html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
